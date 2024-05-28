@@ -20,7 +20,7 @@ body {
     margin: 0 auto;
     color: #555555;
     text-decoration: none;
-    max-width: 360px;
+    /* max-width: 360px; */
     text-align: center;
     /* box-shadow: 1px 2px 15px #48484833; */
     padding-bottom: 90px;
@@ -43,7 +43,7 @@ strong, b {
   background: #fff;
   box-shadow: 1px 2px 15px #484848;
   position: relative;
-  background-image: url('../images/bg1.jpg');
+  background-image: url('../images/bg2.jpg');
   height: 640px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@ strong, b {
   border-radius: 100px;
   margin-bottom: 10px;
   background-color: #fff4ee;
-  color: #ab2324;
+  color: #082b97;
 }
 
 .contact-buttons-text {
@@ -185,7 +185,7 @@ strong, b {
   text-align: center;
   line-height: 30px;
   color: #ffffff;
-  background-color: var(--theme-color);
+  background-color: #082b97;
   font-size: 16px;
 }
 
@@ -237,13 +237,13 @@ strong, b {
 
 .section-header-uperline{
   width: 15%;
-  background-color: var(--theme-color);
+  background-color: #082b97;
   height: 3px;
   margin-bottom: 20px;
 }
 
 .section-header {
-  color: var(--theme-color);
+  color: #082b97;
   text-transform: uppercase;
   margin-bottom: 15px;
   margin-top: -10px;
@@ -474,7 +474,7 @@ strong, b {
 }
 
 #feedback-section input[type=button] {
-  background-color: var(--theme-color);
+  background-color: #082b97;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -638,7 +638,7 @@ strong, b {
 .footer-menu .footer-menu-icon {
   font-size: 24px;
   margin-bottom: 10px;
-  color: var(--theme-color);
+  color: #082b97;
 }
 
 .footer-menu .footer-menu-text {
